@@ -1121,7 +1121,7 @@ export default function App() {
                     className="btn-network-action"
                     onClick={() => fileInputRef.current?.click()}
                   >
-                    <FolderOpen size={12} /> Load From FIR
+                    <FolderOpen size={12} /> Load From File
                   </button>
                   <button
                     className="btn-network-action"
